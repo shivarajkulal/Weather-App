@@ -11,7 +11,7 @@ Thumbs.db
 .vscode/
 *.vs/
 
-
+/node_modules/
 /node_modules/
 /bower_components/
 /vendor/
